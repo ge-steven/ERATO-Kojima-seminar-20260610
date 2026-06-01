@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240.02936mm"
+   height="32.127651mm"
+   viewBox="0 0 240.02935 32.127651"
+   version="1.1"
+   id="svg53097"
+   sodipodi:docname="like-dislike-scale.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview53099"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="445.91619"
+     inkscape:cy="-159.93527"
+     inkscape:window-width="1854"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs53094">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient54388">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop54384" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="1"
+         id="stop54386" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54388"
+       id="linearGradient54390"
+       x1="29.039152"
+       y1="42.949551"
+       x2="139.80524"
+       y2="42.949551"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(28.870564,8.6536956)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(7.1164224,-35.539417)">
+    <rect
+       style="mix-blend-mode:normal;fill:url(#linearGradient54390);fill-opacity:1;fill-rule:nonzero;stroke-width:1.98438;stroke-linecap:round;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect53996"
+       width="110.76609"
+       height="32.127651"
+       x="57.909718"
+       y="35.539417" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.0497px;line-height:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;fill-rule:nonzero;stroke-width:1.98435;stroke-linecap:round;paint-order:markers fill stroke;stop-color:#000000"
+       x="193.09544"
+       y="58.747925"
+       id="text58750"
+       transform="scale(1.000017,0.99998298)"><tspan
+         sodipodi:role="line"
+         id="tspan58748"
+         style="stroke-width:1.98435"
+         x="193.09544"
+         y="58.747925">Like</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.0497px;line-height:normal;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;text-decoration-color:#000000;text-anchor:middle;fill:#000000;fill-rule:nonzero;stroke-width:1.98435;stroke-linecap:round;paint-order:markers fill stroke;stop-color:#000000"
+       x="22.498547"
+       y="58.747925"
+       id="text58750-0"
+       transform="scale(1.000017,0.999983)"><tspan
+         sodipodi:role="line"
+         id="tspan58748-6"
+         style="stroke-width:1.98435"
+         x="22.498547"
+         y="58.747925">Dislike</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="328.19592mm"
+   height="229.72046mm"
+   viewBox="0 0 328.19592 229.72046"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="hedonicgames1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67936217"
+     inkscape:cx="474.70998"
+     inkscape:cy="590.99552"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.6479472,-37.359983)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       d="M 115.52791,38.328015 C 11.39465,37.003811 10.394113,86.723526 10.394113,86.723526 9.8177296,266.13836 9.8416292,262.50172 15.191396,265.3122 25.870591,269.4877 337.3188,266.64166 337.34388,204.62496 336.95223,38.868929 337.2077,58.782298 266.08664,46.394425 187.31573,37.145689 187.74835,37.314329 115.52791,38.328015 Z"
+       id="path1563"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="52.414997"
+       y="61.061298"
+       id="text4842"><tspan
+         sodipodi:role="line"
+         id="tspan4840"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="52.414997"
+         y="61.061298">Hedonic Games</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       x="64.042099"
+       y="56.136784"
+       id="text7925"><tspan
+         sodipodi:role="line"
+         id="tspan7923"
+         style="fill:#000000;fill-opacity:1;stroke-width:1"
+         x="64.042099"
+         y="56.136784" /></text>
+  </g>
+</svg>

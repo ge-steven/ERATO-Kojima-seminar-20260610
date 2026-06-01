@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="328.19592mm"
+   height="229.72046mm"
+   viewBox="0 0 328.19592 229.72046"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="hedonicgames4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.96076319"
+     inkscape:cx="408.52939"
+     inkscape:cy="419.97862"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.6479472,-37.359983)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       d="M 115.52791,38.328015 C 11.39465,37.003811 10.394113,86.723526 10.394113,86.723526 9.8177296,266.13836 9.8416292,262.50172 15.191396,265.3122 25.870591,269.4877 337.3188,266.64166 337.34388,204.62496 336.95223,38.868929 337.2077,58.782298 266.08664,46.394425 187.31573,37.145689 187.74835,37.314329 115.52791,38.328015 Z"
+       id="path1563"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="52.414997"
+       y="61.061298"
+       id="text4842"><tspan
+         sodipodi:role="line"
+         id="tspan4840"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="52.414997"
+         y="61.061298">Hedonic Games</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.14134;stroke-opacity:1"
+       d="M 144.82287,70.857398 C 29.453389,70.11459 39.931977,77.876098 35.267652,95.803916 c -0.876413,9.286024 -3.474836,10.727934 -5.220676,131.190064 -1.071251,26.44279 71.621974,26.40161 174.909054,25.23054 56.97282,0.21708 59.87614,-60.81337 56.41384,-128.79879 0.36029,-50.144728 -0.59181,-52.568332 -116.547,-52.568332 z"
+       id="path5593"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.274;stroke-opacity:1;stroke-dasharray:none"
+       d="m 193.5414,141.22435 c 0.0322,-7.23485 -51.29792,-12.23043 -65.32101,-6.93408 -8.54197,3.13742 -21.40403,37.70897 -5.85223,43.3257 10.7849,4.67616 71.70756,-18.23081 71.17324,-36.39162 z"
+       id="path5595"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       x="64.042099"
+       y="56.136784"
+       id="text7925"><tspan
+         sodipodi:role="line"
+         id="tspan7923"
+         style="fill:#000000;fill-opacity:1;stroke-width:1"
+         x="64.042099"
+         y="56.136784" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1"
+       x="60.300682"
+       y="89.938095"
+       id="text8000"><tspan
+         sodipodi:role="line"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="60.300682"
+         y="89.938095"
+         id="tspan9454">Multidimensional Stable Roommates Problem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.3157px;fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.753406;stroke-opacity:1"
+       x="121.04926"
+       y="150.72433"
+       id="text9525"><tspan
+         sodipodi:role="line"
+         id="tspan9523"
+         style="stroke-width:0.753406;fill:#009900;fill-opacity:1"
+         x="121.04926"
+         y="150.72433">Stable Marriage Problem</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.141;stroke-opacity:1;stroke-dasharray:none"
+       d="m 247.69877,168.19748 c 3.28961,-19.52002 -11.55953,-43.27306 -23.8842,-54.74059 -13.19765,-12.27979 -161.498683,-8.95442 -168.750054,-6.21566 -8.54197,3.13742 -28.102514,68.38188 -12.550724,73.99861 10.78491,4.67616 203.068138,-5.45793 205.184978,-13.04236 z"
+       id="path5595-3"
+       sodipodi:nodetypes="csccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.753406;stroke-opacity:1"
+       x="88.468002"
+       y="120.56059"
+       id="text9525-67"><tspan
+         sodipodi:role="line"
+         id="tspan9523-5"
+         style="font-size:7.05556px;stroke-width:0.753406;fill:#0000ff;fill-opacity:1"
+         x="88.468002"
+         y="120.56059">Stable Roommates Problem</tspan></text>
+  </g>
+</svg>
