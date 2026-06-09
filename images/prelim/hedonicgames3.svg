@@ -25,10 +25,10 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.96076319"
-     inkscape:cx="408.52939"
-     inkscape:cy="419.97862"
+     inkscape:cx="409.04981"
+     inkscape:cy="421.01946"
      inkscape:window-width="1854"
-     inkscape:window-height="1011"
+     inkscape:window-height="1131"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -82,7 +82,7 @@
          style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1"
          x="60.300682"
          y="89.938095"
-         id="tspan9454">Multidimensional Stable Roommates Problem</tspan></text>
+         id="tspan9454">Multidimensional Roommates Problem</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.141;stroke-opacity:1;stroke-dasharray:none"
        d="m 247.69877,168.19748 c 3.28961,-19.52002 -11.55953,-43.27306 -23.8842,-54.74059 -13.19765,-12.27979 -161.498683,-8.95442 -168.750054,-6.21566 -8.54197,3.13742 -28.102514,68.38188 -12.550724,73.99861 10.78491,4.67616 203.068138,-5.45793 205.184978,-13.04236 z"
