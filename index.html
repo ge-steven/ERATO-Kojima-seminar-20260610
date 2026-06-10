@@ -3874,11 +3874,41 @@
   <script src="plugin/markdown/markdown.js"></script>
   <script src="plugin/highlight/highlight.js"></script>
   <script src="plugin/math/math.js"></script>
+  
+  <!-- Font awesome is required for the chalkboard plugin -->
+  <script src="js/font-awesome-6.4.0-all.min.js"></script>
+  <link rel="stylesheet" href="css/font-awesome-6.4.0-all.min.css">
+  <!-- Custom controls plugin is used to for opening and closing annotation modes. -->
+  <script src="plugin/customcontrols/plugin.js"></script>
+  <link rel="stylesheet" href="plugin/customcontrols/style.css">
+  <!-- Chalkboard plugin -->
+  <script src="plugin/chalkboard/plugin.js"></script>
+  <link rel="stylesheet" href="plugin/chalkboard/style.css">
+
+
+  <!-- Menu plugin -->
+  <script src="plugin/menu/menu.js"></script>
+  <link href="plugin/menu/menu.css" rel="stylesheet">
   <script>
     // More info about initialization & config:
     // - https://revealjs.com/initialization/
     // - https://revealjs.com/config/
     Reveal.initialize({
+      customcontrols: {
+        controls: [
+          { icon: '<i class="fa fa-pen-square"></i>',
+            title: 'Toggle chalkboard (B)',
+            action: 'RevealChalkboard.toggleChalkboard();'
+          },
+          { icon: '<i class="fa fa-pen"></i>',
+            title: 'Toggle notes canvas (C)',
+            action: 'RevealChalkboard.toggleNotesCanvas();'
+          }
+        ]
+      },
+      chalkboard: {
+        // add configuration here
+      },
       keyboard: {
         40: "next",
         38: "prev",
@@ -3906,7 +3936,7 @@
       },
 
       // Learn about plugins: https://revealjs.com/plugins/
-      plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX, RevealMath]
+      plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX, RevealMath, RevealChalkboard, RevealCustomControls, RevealMenu]
       // plugins: [RevealMath.MathJax2],
 
     });
